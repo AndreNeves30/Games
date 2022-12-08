@@ -1,0 +1,27 @@
+GDD
+1- Base defense
+ - André Neves
+
+2- Voce avança entre 3 fases enfrentando inimigos que querem destruir sua base.
+ - O jogo acontece em uma floresta/campo.
+
+3- O jogo é um Tower Defense onde você gerencia dinheiro que ganha dos inimigos para construir suas defesas.
+ - Ondas interminaveis começam e para superar ele tem que pocisionar torres e melhora-las.
+ - O jogo fica mais desafiador ao passar das ondas aparecendo inimigos com mais vida, mais velozes e em maior quantidade.
+ - Para cada fase que ele passa ele desbloqueia novas melhorias de torres .
+ - A condição de vitória é sobreviver a todas as ondas.
+ - A condição de derrota é perder deixar os inimigos passarem por suas defesas  e e perdendo no total 20 vidas.
+ 
+4- Os personagens principais são o jogador e o General onde ele ira te guiar durante as fases.
+
+5- Todas as ações que o jogador irá fazer sera pelo Mouse
+
+6- A câmera é fixa com a visualização de cima do ambiente.
+
+7- A primeira fase consiste em uma cidade no planeta a segunda acontece na órbita do planeta e a ultima é na nave dos invasores.
+ 
+8- Os inimigos consistem em carros, tanques , naves e motos onde cada um tem 3 variações que mudam sua velocidade e vida onde cada variação aparece em uma fase distinta.
+ 
+9- Toda a interface aparece no lado esquerdo da tela onde voce podera visualizar sua vida , dinheiro e suas torres .
+
+10- Antes de cada fase terá um leve dialogo entre o jogador e o General.
